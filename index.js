@@ -79,25 +79,7 @@ export function Index () {
                         </div>
                     </div>
                     <div className="work-experience">
-                        <h3>Work Experience</h3>
-                        <div className="resume-item">
-                            <h4>Software Developer Intern</h4>
-                            <p>2022 - 2023</p>
-                            <p>Tech Company</p>
-                            <p>
-                                Worked on developing and maintaining web applications using
-                                JavaScript, HTML, and CSS.
-                            </p>
-                        </div>
-                        <div className="resume-item">
-                            <h4>Freelance Developer</h4>
-                            <p>2020 - 2022</p>
-                            <p>Self-employed</p>
-                            <p>
-                                Built several web and mobile applications for various clients using
-                                Flutter and React.
-                            </p>
-                        </div>
+                        
                     </div>
                 </div>
             </section>
